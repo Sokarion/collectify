@@ -1,0 +1,12 @@
+{
+  "name" : "collectify",
+  "license" : "MIT",
+  "type" : "project",
+  "description" : "A tool to manage collection",
+  "autoload" : {
+    "psr-0" : { "" : "src/" }
+  },
+  "require": {
+    "gabordemooij/redbean": "3.5.1"
+  }
+}
