@@ -12,4 +12,10 @@ define('DB_PASSWORD', '');
 /**
  * Redbean configuration
  */
-define('REDBEAN_MODEL_PREFIX', '\\Collectify\\Model');
+define('REDBEAN_MODEL_PREFIX', '\\Collectify\\Model\\');
+
+/**
+ * Collectify configuration
+ */
+define('DEFAULT_CONTROLLER', 'home');
+define('DEFAULT_ACTION', 'homepage');

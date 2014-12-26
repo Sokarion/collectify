@@ -7,6 +7,9 @@
     "psr-0" : { "" : "src/" }
   },
   "require": {
-    "gabordemooij/redbean": "3.5.1"
-  }
+    "gabordemooij/redbean": "3.5.1",
+    "nibble/nibble-forms": "dev-master",
+    "phpunit/phpunit": "dev-master"
+  },
+  "minimum-stability" : "dev"
 }
